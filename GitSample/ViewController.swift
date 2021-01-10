@@ -9,6 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    //コメントを追加しました。
 
     override func viewDidLoad() {
         super.viewDidLoad()
